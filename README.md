@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Dana - Startup lover and developer 
+- 👋 Hi, I’m Dana
