@@ -24,4 +24,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/DanaIzadpanah/DanaIzadpanah/output/github-snake.svg" />
 </picture>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=hacker-inverted&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
